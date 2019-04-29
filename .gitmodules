@@ -1,3 +1,6 @@
 [submodule "SilentRadiance"]
 	path = SilentRadiance
 	url = https://github.com/silentradiance/silentradiance_application_silentradiance_distance_disco.git
+[submodule "SilentRadiance_server"]
+	path = SilentRadiance_server
+	url = https://github.com/silentradiance/silentradiance_application_silentradiance_server.git
